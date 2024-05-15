@@ -4,3 +4,5 @@ L'objectif est de sensibiliser les étudiants de notre école aux différents ri
 
 Projet réalisé en BTS SIO2.
 (Projet et site web arrêté)
+
+![logo_cybersafedls](logo_cybersafedls.png)
